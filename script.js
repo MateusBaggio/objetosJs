@@ -1,3 +1,5 @@
+//aula 1
+
 // var n = new Number('23.45678')
 // console.log(n.toFixed(3));
 
@@ -46,3 +48,33 @@
 // var x = new String('String, Criando uma string');
 // console.log(x.toLowerCase(x));
 // console.log(x.toUpperCase(x));
+
+
+// aula 2 
+
+// data = new Date;
+// console.log(data);
+
+// data2 = new Date("Dec/03/1958 11:20:30");
+// console.log(data2)
+
+// data3 = new Date(1986, 4, 24, 8, 30);
+// console.log(data3);
+
+// data = new Date();
+// console.log(`Hora local: ${data.getHours()}`);
+// console.log(`Hora Universal: ${data.getUTCHours()}`);
+
+// data = new Date(`Dec/22/2013 15:51:20`);
+// console.log(`Hora local: ${data.getHours()}`);
+// console.log(`Hora Universal: ${data.getUTCHours()}`);
+
+// data = new Date();
+// dias = ["Domingo", "Segunda", "Terça", "Quarta", "Quinta", "Sexta", "Sábado"]
+// console.log(data.getHours());
+// console.log(data.getMilliseconds());
+// console.log(data.getMinutes());
+// console.log(dias[data.getDay()]);
+// console.log(data.getDate());
+// console.log(data.getFullYear());
+
