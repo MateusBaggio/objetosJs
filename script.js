@@ -78,3 +78,26 @@
 // console.log(data.getDate());
 // console.log(data.getFullYear());
 
+
+
+
+// console.log(Math.PI);
+// console.log(Math.abs(5.9));
+// console.log(Math.max(5.9, 6, 12, -80));
+// console.log(Math.min(5.9, 6, 12, -80));
+// console.log(Math.round(12.6));
+// console.log(Math.floor(45.5));
+// console.log(Math.ceil(45.5));
+// console.log(Math.pow(12, 3));
+// console.log(Math.sqrt(16));
+// console.log(Math.random())
+// console.log(Math.random() * 6);
+
+// n = Math.floor(Math.random() * 10);
+// console.log(n);
+
+// m = Math.floor(Math.random() * 10 + 1);
+// console.log(m);
+
+// n=Math.floor(random()*7);
+// console.log(n);
